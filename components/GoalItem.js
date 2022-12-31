@@ -18,12 +18,12 @@ const styles = StyleSheet.create({
   goalItem: {
     margin: 8,
     borderRadius: 6,
-    backgroundColor: 'lightblue',
+    backgroundColor: '#03d3fc',
   },
   pressedItem: { opacity: 0.5 },
   goalText: {
     padding: 8,
-  }, 
+  },
 });
 
 export default GoalItem;
